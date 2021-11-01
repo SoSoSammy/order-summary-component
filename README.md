@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop-order-summary-component.PNG)
-![](./mobile-order-summary-component.PNG)
+![(./desktop-order-summary-component.PNG)]
+![(./mobile-order-summary-component.PNG)]
 
 ### Built with
 
