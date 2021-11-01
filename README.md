@@ -25,8 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![(./desktop-order-summary-component.PNG)]
-![(./mobile-order-summary-component.PNG)]
+![desktop-order-summary-component](https://user-images.githubusercontent.com/86075091/139705989-a6ee8ad9-91fe-4e25-a716-ab5b3ac33317.png)
+
+![mobile-order-summary-component](https://user-images.githubusercontent.com/86075091/139705996-08822415-0768-4e5c-8ceb-238d5818cadc.png)
 
 ### Built with
 
