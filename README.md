@@ -11,7 +11,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -63,10 +62,6 @@ I will continue working on expanding my knowledge of CSS with future projects. I
 ### Useful resources
 
 - [Order Summary Component - Frontend Mentor Challenge by tsbsankara](https://www.youtube.com/watch?v=uaM5F8O_VI8&t=596s) - This video by tsbsankara helped me to complete this project. I was stumped and needed to see how others completed the order summary component project.
-
-## Author
-
-- Frontend Mentor - [@SoSoSammy](https://www.frontendmentor.io/profile/SoSoSammy)
 
 ## Acknowledgments
 
