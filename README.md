@@ -6,7 +6,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -22,10 +22,12 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
+#### Desktop
 ![desktop-order-summary-component](https://user-images.githubusercontent.com/86075091/139705989-a6ee8ad9-91fe-4e25-a716-ab5b3ac33317.png)
 
+#### Mobile
 ![mobile-order-summary-component](https://user-images.githubusercontent.com/86075091/139705996-08822415-0768-4e5c-8ceb-238d5818cadc.png)
 
 ### Built with
